@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/papad/static/css/main.236bcb92.css",
+    "main.js": "/papad/static/js/main.9311f684.js",
+    "static/js/787.2fe5556a.chunk.js": "/papad/static/js/787.2fe5556a.chunk.js",
+    "index.html": "/papad/index.html",
+    "main.236bcb92.css.map": "/papad/static/css/main.236bcb92.css.map",
+    "main.9311f684.js.map": "/papad/static/js/main.9311f684.js.map",
+    "787.2fe5556a.chunk.js.map": "/papad/static/js/787.2fe5556a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.236bcb92.css",
+    "static/js/main.9311f684.js"
+  ]
+}
